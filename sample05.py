@@ -12,7 +12,7 @@ def sub(a: int, b: int) -> int:
     return a - b
 
 
-# if以下のみsample05でtureなので表示される。その他では
+# if以下のみsample05でtureなので表示される。その他ではfaluseになる
 if __name__ == "__main__":
     y1 = add(a=3, b=4)
 
